@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/guns.png-2c0aa6d498b0b286ce5ac4aadfaa2b6f.stex"
+path="res://.import/flash.png-03ba49721f9c01679f3e42187525b4c6.stex"
 
 [deps]
 
-source_file="res://guns.png"
-source_md5="fd663f012deeaf8ad829ec4cb6c1b6af"
+source_file="res://flash.png"
+source_md5="0df45c6e0f010c96ac2f7072fe19c05c"
 
-dest_files=[ "res://.import/guns.png-2c0aa6d498b0b286ce5ac4aadfaa2b6f.stex" ]
-dest_md5="c36e004f1262968b74193cbc8e5cb4ef"
+dest_files=[ "res://.import/flash.png-03ba49721f9c01679f3e42187525b4c6.stex" ]
+dest_md5="a44e39608c2db7451805998fe70a4781"
 
 [params]
 

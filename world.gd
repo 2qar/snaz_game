@@ -1,6 +1,6 @@
 extends Node
 
-const SCALE = 5
+const SCALE = 3
 
 func _ready():
 	OS.set_window_title("if ur reading this, game smells")
@@ -15,4 +15,6 @@ func _ready():
 	OS.set_window_size(new_size)
 	OS.center_window()
 
-	Input.set_custom_mouse_cursor(load("res://test_cursor.png"))
+	print(get_viewport().get_camera())
+
+	#Input.set_custom_mouse_cursor(load("res://test_cursor.png"))
